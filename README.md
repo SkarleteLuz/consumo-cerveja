@@ -1,6 +1,6 @@
 #  Prevendo o consumo de cerveja
 
-<h4>Objetivo do estudo<h4/>
+<h4>Objetivo:<h4/>
 
 O objetivo deste estudo é estimar um modelo de Machine Learning, utilizando a técnica de Regressão Linear, para demonstrar os impactos das variáveis explicativas(X's), disponibilizadas neste dataset, sobre o consumo de cerveja (variavél dependente 'Y').
 
